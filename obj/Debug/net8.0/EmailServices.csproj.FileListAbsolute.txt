@@ -1,0 +1,14 @@
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\bin\Debug\net8.0\EmailServices.exe
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\bin\Debug\net8.0\EmailServices.deps.json
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\bin\Debug\net8.0\EmailServices.runtimeconfig.json
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\bin\Debug\net8.0\EmailServices.dll
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\bin\Debug\net8.0\EmailServices.pdb
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\EmailServices.AssemblyInfoInputs.cache
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\EmailServices.AssemblyInfo.cs
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\EmailServices.csproj.CoreCompileInputs.cache
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\EmailServices.dll
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\refint\EmailServices.dll
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\EmailServices.pdb
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\EmailServices.genruntimeconfig.cache
+E:\UNI\semester-9\Advanced Topics in Software Engineering\Tasks\04-Jenkins\EmailServices\obj\Debug\net8.0\ref\EmailServices.dll
