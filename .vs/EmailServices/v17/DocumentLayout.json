@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F0B104C-4427-492D-A22A-B52C0CC9521C}|EmailServices.csproj|e:\\uni\\semester-9\\advanced topics in software engineering\\tasks\\04-jenkins\\emailservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F0B104C-4427-492D-A22A-B52C0CC9521C}|EmailServices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0B104C-4427-492D-A22A-B52C0CC9521C}|EmailServices.csproj|e:\\uni\\semester-9\\advanced topics in software engineering\\tasks\\04-jenkins\\emailservices\\commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0B104C-4427-492D-A22A-B52C0CC9521C}|EmailServices.csproj|solutionrelative:commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commit.cs",
+              "DocumentMoniker": "E:\\UNI\\semester-9\\Advanced Topics in Software Engineering\\Tasks\\04-Jenkins\\EmailServices\\Commit.cs",
+              "RelativeDocumentMoniker": "Commit.cs",
+              "ToolTip": "E:\\UNI\\semester-9\\Advanced Topics in Software Engineering\\Tasks\\04-Jenkins\\EmailServices\\Commit.cs",
+              "RelativeToolTip": "Commit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:38:31.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\UNI\\semester-9\\Advanced Topics in Software Engineering\\Tasks\\04-Jenkins\\EmailServices\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwHMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T07:06:31.438Z",
               "EditorCaption": ""
